@@ -9,11 +9,11 @@ interface Slide {
 }
 
 const slides: Slide[] = [
-  { id: 1, image: '/assets/killer.png', alt: 'Tyre killer security system' },
-  { id: 2, image: '/assets/roadblocker.png', alt: 'Road blocker security barrier' },
-  { id: 3, image: '/assets/bollardbanner.png', alt: 'Hydraulic bollard system' },
-  { id: 4, image: '/assets/Automatic Number.jpeg', alt: 'Automatic number plate recognition' },
-  { id: 5, image: '/assets/boom3.jpeg', alt: 'Boom barrier system' },
+  { id: 1, image: '/new-assets/1.jpg', alt: 'Automatic boom barrier at a commercial entrance' },
+  { id: 2, image: '/new-assets/8.jpg', alt: 'Automatic bollards for perimeter protection' },
+  { id: 3, image: '/new-assets/16.jpg', alt: 'Pedestrian access control turnstile' },
+  { id: 4, image: '/new-assets/23.jpg', alt: 'Automatic number plate recognition system' },
+  { id: 5, image: '/new-assets/30.jpg', alt: 'Integrated access and security solutions' },
 ];
 
 const SLIDE_DURATION = 3;

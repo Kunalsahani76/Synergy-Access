@@ -10,20 +10,20 @@ import Carousel from './evcharger/carousel/page';
 
 // Image paths (place these images in public/images directory)
 const images = {
-  boom1: '/assets/barrier.png',
-  boom2: '/assets/barrier2.png',
-  per: '/assets/peri.jpg',
-  boom: '/assets/Boom-Barrier.jpeg',
-  Pedest: '/assets/pades.jpg',
-  park: '/assets/parking.jpg',
-  Metal: '/assets/metal.jpg',
-  Access: '/assets/control.jpg',
-  Best: '/assets/boombarr.jpg',
-  boom3: '/assets/boom3.jpeg',
-  bollard: '/assets/bollard.jpg',
-  banner: '/assets/banner1.jpeg',
-  banner2: '/assets/banner2.jpeg',
-  banner3: '/assets/banner3.jpeg'
+  boom1: '/new-assets/1.jpg',
+  boom2: '/new-assets/2.jpg',
+  per: '/new-assets/8.jpg',
+  boom: '/new-assets/3.jpg',
+  Pedest: '/new-assets/16.jpg',
+  park: '/new-assets/22.jpg',
+  Metal: '/new-assets/15.jpg',
+  Access: '/new-assets/24.jpg',
+  Best: '/new-assets/30.jpg',
+  boom3: '/new-assets/4.jpg',
+  bollard: '/new-assets/9.jpg',
+  banner: '/new-assets/1.jpg',
+  banner2: '/new-assets/2.jpg',
+  banner3: '/new-assets/3.jpg'
 };
 
 const products = [

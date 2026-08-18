@@ -7,9 +7,9 @@ import { Shield, Target, Users, Award, CheckCircle, TrendingUp, Trophy, Puzzle, 
 import InternalLinks from '../../components/SEO/InternalLinks';
 
 import Image from 'next/image';
-const banner = '/assets/aboutus.jpg';
-const barrier1 = '/assets/barrier.png';
-const barrier2 = '/assets/barrier2.png';
+const banner = '/new-assets/30.jpg';
+const barrier1 = '/new-assets/1.jpg';
+const barrier2 = '/new-assets/2.jpg';
 const solutionIcon = '/assets/icons/iso.png';
 const solution1 = '/assets/icons/msme.png';
 const solution2 = '/assets/icons/ce.png';
@@ -685,7 +685,7 @@ const About: React.FC = () => {
                 <Image src={solution2} alt="CE" width={32} height={32} />
               </motion.div>
               <h3 className="mb-2 font-sans text-base font-semibold text-gray-800 sm:text-lg">CE</h3>
-              <p className="font-sans text-xs text-gray-600 sm:text-sm">Conformité Européenne</p>
+              <p className="font-sans text-xs text-gray-600 sm:text-sm">European Conformity certification</p>
             </motion.div>
           </div>
         </div>
