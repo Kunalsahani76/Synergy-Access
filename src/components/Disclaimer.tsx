@@ -4,7 +4,7 @@ import React, { useEffect, useState, useCallback, useRef } from "react"
 import { AlertTriangle } from "lucide-react"
 
 const Disclaimer: React.FC = () => {
-  const [showModal, setShowModal] = useState<boolean>(true)
+  const [showModal, setShowModal] = useState<boolean>(false)
   const [showFloatingIcon, setShowFloatingIcon] = useState<boolean>(false)
   const [mounted, setMounted] = useState<boolean>(false)
   const modalRef = useRef<HTMLDivElement | null>(null)
@@ -136,5 +136,4 @@ const Disclaimer: React.FC = () => {
 }
 
 export default Disclaimer
-
 

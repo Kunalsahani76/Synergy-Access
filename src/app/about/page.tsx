@@ -7,7 +7,7 @@ import { Shield, Target, Users, Award, CheckCircle, TrendingUp, Trophy, Puzzle, 
 import InternalLinks from '../../components/SEO/InternalLinks';
 
 import Image from 'next/image';
-const banner = '/new-assets/30.jpg';
+const banner = '/new-assets/4.jpg';
 const barrier1 = '/new-assets/1.jpg';
 const barrier2 = '/new-assets/2.jpg';
 const solutionIcon = '/assets/icons/iso.png';

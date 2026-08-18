@@ -10,10 +10,8 @@ interface Slide {
 
 const slides: Slide[] = [
   { id: 1, image: '/new-assets/1.jpg', alt: 'Automatic boom barrier at a commercial entrance' },
-  { id: 2, image: '/new-assets/8.jpg', alt: 'Automatic bollards for perimeter protection' },
-  { id: 3, image: '/new-assets/16.jpg', alt: 'Pedestrian access control turnstile' },
-  { id: 4, image: '/new-assets/23.jpg', alt: 'Automatic number plate recognition system' },
-  { id: 5, image: '/new-assets/30.jpg', alt: 'Integrated access and security solutions' },
+  { id: 2, image: '/new-assets/2.jpg', alt: 'Automatic bollards for perimeter protection' },
+  { id: 3, image: '/new-assets/3.jpg', alt: 'Pedestrian access control turnstile' },
 ];
 
 const SLIDE_DURATION = 3;
@@ -112,7 +110,7 @@ const MagicSlider: React.FC = () => {
                   src={slide.image}
                   alt={slide.alt || `Slide ${idx + 1}`}
                   fill
-                  className="object-cover transition-transform duration-[3000ms] ease-out hover:scale-105"
+                  className="object-cover"
                   priority={idx === 0}
                   sizes="100vw"
                 />
