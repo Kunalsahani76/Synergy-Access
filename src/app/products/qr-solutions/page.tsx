@@ -10,7 +10,7 @@ import {
 import Head from "next/head";
 import Image from "next/image";
 
-const parking = '/assets/QRBased.jpg';
+const parking = '/new-assets/QR BASED SOLUTION.png';
 const banner = '/assets/QRBasedSolutions.jpg';
 
 const fadeIn = {

@@ -8,10 +8,10 @@ import InternalLinks from '../../../components/SEO/InternalLinks';
 import { generateSEOData, generateStructuredData } from '../../../components/utils/seo';
 
 
-const banner = '/new-assets/1.jpg';
-const boom1 = '/new-assets/5.jpg';
-const boom2 = '/new-assets/6.jpg';
-const boom3 = '/new-assets/7.jpg';
+const banner = '/new-assets/Home-hero1.png';
+const boom1 = '/new-assets/Boom-barrier1.png';
+const boom2 = '/new-assets/Boom-barrier2.png';
+const boom3 = '/new-assets/Boom-barrier3.png';
 
 const boomBarrierModels = [
   {

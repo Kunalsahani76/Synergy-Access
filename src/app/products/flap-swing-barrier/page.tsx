@@ -6,7 +6,7 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from 'next/link';
 
-const FlapSwingBanner = '/assets/Flap.jpg';
+const FlapSwingBanner = '/new-assets/FlapSwing Barrier.png';
 const Retractable = '/assets/retractable.png';
 const Swing = '/assets/swing.png';
 const banner = '/assets/flap.jpeg';

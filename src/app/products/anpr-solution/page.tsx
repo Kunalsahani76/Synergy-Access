@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import InternalLinks from "@/components/SEO/InternalLinks";
-const parking = '/assets/Automatic Number.jpeg';
+const parking = '/new-assets/ANPR.png';
 const banner = '/assets/anprbanner.jpg';
 
 const productLinks = [

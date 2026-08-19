@@ -3,7 +3,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ShieldCheck, Building2, KeyRound, Users } from "lucide-react";
 import Head from "next/head";
-const parking = '/assets/VisitorManagementSystem.jpg';
+const parking = '/new-assets/VMS.png';
 const banner = '/assets/VisitorManagementbanner.jpg';
 import Image from 'next/image';
 

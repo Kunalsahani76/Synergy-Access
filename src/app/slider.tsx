@@ -9,9 +9,9 @@ interface Slide {
 }
 
 const slides: Slide[] = [
-  { id: 1, image: '/new-assets/111.jpg', alt: 'Automatic boom barrier at a commercial entrance' },
-  { id: 2, image: '/new-assets/111.jpg', alt: 'Automatic bollards for perimeter protection' },
-  { id: 3, image: '/new-assets/111.jpg', alt: 'Pedestrian access control turnstile' },
+  { id: 1, image: '/new-assets/Home-hero1.png', alt: 'Automatic boom barrier at a commercial entrance' },
+  { id: 2, image: '/new-assets/Home-hero2.png', alt: 'Automatic bollards for perimeter protection' },
+  { id: 3, image: '/new-assets/Home-hero3.png', alt: 'Pedestrian access control turnstile' },
 ];
 
 const SLIDE_DURATION = 3;

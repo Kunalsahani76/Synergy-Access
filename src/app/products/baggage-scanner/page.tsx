@@ -5,7 +5,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 const scanner = '../../assets/xray.jpeg';
-const BaggageScannerBanner = '/assets/Baggage-scanner.jpeg';
+const BaggageScannerBanner = '/new-assets/X-ray Scanner Technology.png';
 const scannerDiagram = '/assets/Baggage-scanner.jpeg';
 const securityCheckpoint = '/assets/Supermacy-7.jpg';
 const airportSecurity = '/assets/Baggage-scanner.jpeg';

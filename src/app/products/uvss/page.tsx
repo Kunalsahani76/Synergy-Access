@@ -5,7 +5,7 @@ import { ShieldCheck, Building2, KeyRound, Users } from "lucide-react";
 import Head from "next/head";
 import Image from "next/image";
 
-const UvssBanner = '/assets/uvss.png';
+const UvssBanner = '/new-assets/UNDER VEHICLE SURVEILLANCE SYSTEM.png';
 const uvssimg = '/assets/UVSS.jpeg';
 
 const fadeIn = {

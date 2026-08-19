@@ -6,7 +6,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 // Assets
-const biometricImage = '/assets/Biometric.jpg';
+const biometricImage = '/new-assets/Biometric – Fingerprint.png';
 const bannerImage = '/assets/Biometric – Fingerprint.jpg';
 
 // Product Links

@@ -3,7 +3,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ShieldCheck, Building2, KeyRound, Users, Shield, Wrench, Clock, Database } from "lucide-react";
 import Head from "next/head";
-const PsbBanner = '/assets/P-GATE.jpg';
+const PsbBanner = '/new-assets/P-Type Swing Barrier.png';
 const banner = '/assets/ptype.jpg';
 import Image from "next/image";
 

@@ -3,7 +3,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ShieldCheck, Building2, KeyRound, Users, Shield, Wrench, Clock, Database } from "lucide-react";
 import Head from "next/head";
-const HhmdBanner = '/assets/hhmd.png';
+const HhmdBanner = '/new-assets/HANDHELD METAL DETECTOR.png';
 import Image from "next/image";
 const banner = '/assets/hhmd.jpeg';
 

@@ -6,7 +6,7 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from 'next/link';
 
-const parking = '/assets/Face-recognition.jpg';
+const parking = '/new-assets/FACE RECOGNITION SYSTEM.png';
 const banner = '/assets/Face.jpg';
 
 const fadeIn = {

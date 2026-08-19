@@ -3,7 +3,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ShieldCheck, Building2, KeyRound, Users, Shield, Wrench, Clock, Database } from "lucide-react";
 import Head from "next/head";
-const DfmdBanner = '/assets/dfmd.png';
+const DfmdBanner = '/new-assets/DOOR FRAME METAL DETECTOR.png';
 
 const banner = '/assets/DFMD.jpg';
 import Image from 'next/image';

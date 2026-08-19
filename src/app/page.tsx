@@ -40,7 +40,7 @@ const products = [
     title: 'Best in the Industry',
     description: 'World-class boom barriers extending up to 7 meters with advanced control systems.',
     number: '01',
-    image: images.boom3,
+    image: '/new-assets/BARRIER.png',
     features: ['7m Extension', 'Weather Resistant', 'LED Lighting', 'Remote Control'],
   },
   {
