@@ -10,7 +10,7 @@ interface Slide {
 
 const slides: Slide[] = [
   { id: 1, image: '/new-assets/1.jpg', alt: 'Automatic boom barrier at a commercial entrance' },
-  { id: 2, image: '/new-assets/2.jpg', alt: 'Automatic bollards for perimeter protection' },
+  { id: 2, image: '/new-assets/4.jpg', alt: 'Automatic bollards for perimeter protection' },
   { id: 3, image: '/new-assets/3.jpg', alt: 'Pedestrian access control turnstile' },
 ];
 

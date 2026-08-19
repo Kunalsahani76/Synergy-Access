@@ -452,9 +452,6 @@ export default function Home() {
                     className="object-cover transition-transform duration-500 group-hover:scale-110"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                  <div className="absolute p-2 sm:p-3 bg-white rounded-lg shadow-md top-2 right-2 sm:top-4 sm:right-4">
-                    <Shield className="w-4 h-4 sm:w-6 sm:h-6 text-red-500" />
-                  </div>
                   <div className="absolute text-white bottom-2 left-2 sm:bottom-4 sm:left-4">
                     <div className="text-xs sm:text-sm font-semibold text-red-400">{product.category}</div>
                     <h3 className="text-xs sm:text-base md:text-lg font-bold">{product.title}</h3>
@@ -516,9 +513,6 @@ export default function Home() {
                     className="object-cover transition-transform duration-500 group-hover:scale-110"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 to-transparent"></div>
-                  <div className="absolute p-2 sm:p-4 bg-red-500 rounded-lg shadow-lg top-2 left-2 sm:top-5 sm:left-5">
-                    <item.icon className="w-5 h-5 sm:w-8 sm:h-8 text-white" />
-                  </div>
                 </div>
                 <div className="p-3 sm:p-6">
                   <div className="flex items-center mb-1 sm:mb-4">
